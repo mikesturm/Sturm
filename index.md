@@ -1,7 +1,7 @@
 ---
 title: Home
 nav_order: 1
-layout: home
+layout: page
 ---
 
 # My name is Mike Sturm. I write about productivity and personal growth. Below are the things I’ve done and things I’m currently doing.
