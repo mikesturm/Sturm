@@ -1,5 +1,6 @@
 ---
 title: 'Be, Think, Do'
+parent: Books
 layout: page
 ---
 

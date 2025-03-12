@@ -1,7 +1,6 @@
 ---
 title: 'The Wabi-Sabi Way'
-date: '2022-01-05T21:43:33+00:00'
-author: 'Mike Sturm'
+parent: Books
 layout: page
 
 ---
