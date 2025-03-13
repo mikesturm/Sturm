@@ -1,7 +1,5 @@
 ---
 title: Books
-parent: Navigation
-nav_order: 2
 layout: page
 ---
 
