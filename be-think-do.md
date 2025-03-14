@@ -3,7 +3,7 @@ title: 'Be, Think, Do'
 parent: Books
 layout: page
 ---
-
+[!](_assets/71ndyMoc9PL._SL1500_.jpg)
 ## Distilling the Art and Science of Personal Growth Down to Its Elements
 
 The journey has many names: personal growth, self-improvement, self-help. But everyone is familiar with it. It’s a journey that so many of us begin, but that–if you do it right–it really doesn’t end. It’s been written about so often that one hesitates to add one more volume to the already towering stack of books about it. And yet, I did just that.
